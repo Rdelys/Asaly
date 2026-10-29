@@ -1,2 +1,7 @@
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /app
+
+Sitemap: https://asaly.tafely-gr.com/sitemap.xml
